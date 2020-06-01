@@ -1,0 +1,14 @@
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\bin\Debug\netcoreapp2.1\TrackerAPI.deps.json
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\bin\Debug\netcoreapp2.1\TrackerAPI.runtimeconfig.json
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\bin\Debug\netcoreapp2.1\TrackerAPI.runtimeconfig.dev.json
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\bin\Debug\netcoreapp2.1\TrackerAPI.dll
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\bin\Debug\netcoreapp2.1\TrackerAPI.pdb
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.csprojAssemblyReference.cache
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.csproj.CoreCompileInputs.cache
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.RazorAssemblyInfo.cache
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.RazorAssemblyInfo.cs
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.AssemblyInfoInputs.cache
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.AssemblyInfo.cs
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.RazorTargetAssemblyInfo.cache
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.dll
+c:\users\leonalhernandezveloz\source\repos\TrackerAPI\TrackerAPI\obj\Debug\netcoreapp2.1\TrackerAPI.pdb
